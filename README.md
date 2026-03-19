@@ -1,4 +1,4 @@
-# 📝 Notebase — Full Stack Notes App (React + Express + Redis)
+# 📝 NoteApp — Full Stack Notes App (React + Express + Redis)
 
 A full-stack notes application where you can create, edit, delete and search notes.
 All data is stored in Redis running locally on your machine.

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 Setting up Notebase..."
+echo "🚀 Setting up NoteApp..."
 
 echo ""
 echo "📦 Installing backend dependencies..."

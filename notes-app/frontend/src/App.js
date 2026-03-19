@@ -226,7 +226,7 @@ export default function App() {
               <line x1="25" y1="22" x2="25" y2="28" stroke="white" strokeWidth="2" strokeLinecap="round" />
               <line x1="22" y1="25" x2="28" y2="25" stroke="white" strokeWidth="2" strokeLinecap="round" />
             </svg>
-            <span className="brand-name">Notebase</span>
+            <span className="brand-name">NoteApp</span>
           </div>
 
           <div className="header-right">
