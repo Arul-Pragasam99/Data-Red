@@ -293,7 +293,7 @@ export default function App() {
               <line x1="18" y1="28" x2="38" y2="28" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.3" />
               <line x1="18" y1="36" x2="28" y2="36" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.3" />
             </svg>
-            <p>{search ? "No notes match your search." : "No notes yet. Create your first one!"}</p>
+            <p>{search ? "No notes match your search." : "No notes"}</p>
             {!search && (
               <button className="btn btn-primary" onClick={() => setShowModal(true)}>
                 + Create Note
